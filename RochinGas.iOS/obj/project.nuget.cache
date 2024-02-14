@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqDNzW/YxCMf3jVmAUNHzdQdcNu9XMoX5CbRGUgcbLvxVW/lXKP5Ypiou6vx/Y2ZpZTkwv0Jt/E9Dix0M2FT5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.iOS\\RochinGas.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emiro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
