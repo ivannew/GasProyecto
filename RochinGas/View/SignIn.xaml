@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RochinGas.View.SingIn"
+             xmlns:sombras="clr-namespace:Sharpnado.Shades;assembly=Sharpnado.Shadows"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout>
+        <Image Source="https://i.ibb.co/28d3LBM/gas.png" HeightRequest="80" WidthRequest="100" Margin="10,30,10,10"></Image>
+        <Label TextColor="Gray" HorizontalOptions="Center"  FontSize="30">D-TECTOR</Label>
+        <Frame Margin="10,10,10,10" CornerRadius="50">
+            <StackLayout Margin="10,60,10,10">
+                <Label Text="Registro" FontAttributes="Bold" FontSize="25" Margin="150,0,10,10" ></Label>
+                <Label Text="Email" FontSize="15" Margin="60,10,10,10" TextColor="#269B0F"></Label>
+                <Entry Margin="55,-25,70,0"></Entry>
+                <Label Text="Contraseña" FontSize="15" Margin="60,10,10,10" TextColor="#269B0F"></Label>
+                <Entry Margin="55,-25,70,0" IsPassword="True"></Entry>
+                <Image Source="https://i.ibb.co/rppqPdC/visible.png" Margin="300,-50,10,20" HeightRequest="30"></Image>
+            </StackLayout>
+        </Frame>
+        <!--<sombras:Shadows CornerRadius="100"
+              Shades="{sombras:SingleShade Offset='1,0',Opacity=1.0, Color=#4CDD3E,BlurRadius=27}">
+        </sombras:Shadows>-->
+            <Button Text="ENTRAR" Margin="130,10,130,10" BackgroundColor="#97FF83" CornerRadius="30" Command="{Binding GoMainCommand}"/>
+        <Label Margin="130,0,0,0">Ya tines cuenta?</Label>
+        <Label Margin="253,-28,0,0" TextColor="#269B0F" Text="Regresar">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding LoginCommand}"/>
+            </Label.GestureRecognizers>
+        </Label>
+    </StackLayout>
+</ContentPage>

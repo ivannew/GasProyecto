@@ -636,3 +636,7 @@ C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\stamp\_Con
 C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\res\drawable\cerrar_con_llave.png
+C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\res\drawable\telefono_inteligente.png
+C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\res\drawable\calendario.png
+C:\Users\emiro\source\repos\RochinGas\RochinGas.Android\obj\Debug\130\res\drawable\flechas_izquierda.png

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RochinGas.ViewModel.VMGas;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace RochinGas
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = new VMDetails(Navigation);
         }
     }
 }
