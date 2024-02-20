@@ -6,12 +6,19 @@
                 <TapGestureRecognizer Command="{Binding VolverCommand}"/>
             </Image.GestureRecognizers>
          </Image>-->
-        <Label Text="Perfil" FontSize="20">
-            <Label.GestureRecognizers>
-                <TapGestureRecognizer Command="{Binding VolverCommand}"/>
-            </Label.GestureRecognizers>
-        </Label>
-        <Label Text="G-ASS" FontSize="40" TextColor="Black" Padding="140,0,0,0" />
+        <Grid>
+            <Label Text="Perfil" FontSize="20" Grid.Column="0" Grid.Row="0">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding VolverCommand}"/>
+                </Label.GestureRecognizers>
+            </Label>
+            <Label Text="Motores" FontSize="20" Grid.Column="1" Grid.Row="0">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding MotoresCommand}"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </Grid>
+        <Label Text="D-Tector" FontSize="40" TextColor="Black" Padding="140,0,0,0" />
         <!--s-->
         <Grid BackgroundColor="#D9D9D9" Padding="5,-20,5,10" Margin="0" HeightRequest="200">
             <StackLayout Grid.Column="0" Grid.Row="1">
