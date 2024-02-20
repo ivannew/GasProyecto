@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RochinGas.ViewModel.VMGas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,7 @@ namespace RochinGas.View
 		public CrearMotor ()
 		{
 			InitializeComponent ();
+			BindingContext = new VMCrearMotor(Navigation);
 		}
 	}
 }

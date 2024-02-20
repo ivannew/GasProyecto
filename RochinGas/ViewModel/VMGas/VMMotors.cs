@@ -27,11 +27,13 @@ namespace RochinGas.ViewModel.VMGas
         }
         public async Task Editar()
         {
-            await Navigation.PushModalAsync(new MainPage());
+            await Navigation.PushModalAsync(new EditarMotor());
         }
         #endregion
         #region Commands
         public ICommand VolverCommand => new Command(async () => await Volver());
+        public ICommand CrearCommand => new Command(async () => await Crear());
+        public ICommand EditarCommand => new Command(async () => await Editar());
         #endregion
     }
 }

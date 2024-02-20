@@ -17,3 +17,5 @@ C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\Lo
 C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\SignIn.xaml.g.cs
 C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\User.xaml.g.cs
 C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\ListMotors.xaml.g.cs
+C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\CrearMotor.xaml.g.cs
+C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\EditarMotor.xaml.g.cs

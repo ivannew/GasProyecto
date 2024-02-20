@@ -17,7 +17,7 @@
                     <Label Text="Ubicacion:" Grid.Column="0" Grid.Row="1" FontSize="20"/>
                     <Label Text="Pasillo 1" Grid.Column="1" Grid.Row="1" FontSize="20"/>
                     <Button Text="Eliminar" BackgroundColor="#FF6F6F" Grid.Column="0" Grid.Row="2"/>
-                    <Button Text="Editar" BackgroundColor="#FAFF6F" Grid.Column="1" Grid.Row="2"/>
+                    <Button Text="Editar" BackgroundColor="#FAFF6F" Grid.Column="1" Grid.Row="2" Command="{Binding EditarCommand}"/>
                 </Grid>
             </Frame>
         </StackLayout>
@@ -30,7 +30,7 @@
                     <Label Text="Ubicacion:" Grid.Column="0" Grid.Row="1" FontSize="20"/>
                     <Label Text="Pasillo 1" Grid.Column="1" Grid.Row="1" FontSize="20"/>
                     <Button Text="Eliminar" BackgroundColor="#FF6F6F" Grid.Column="0" Grid.Row="2"/>
-                    <Button Text="Editar" BackgroundColor="#FAFF6F" Grid.Column="1" Grid.Row="2"/>
+                    <Button Text="Editar" BackgroundColor="#FAFF6F" Grid.Column="1" Grid.Row="2" Command="{Binding EditarCommand}"/>
                 </Grid>
             </Frame>
         </StackLayout>
@@ -42,10 +42,10 @@
                     <Label Text="Ubicacion:" Grid.Column="0" Grid.Row="1" FontSize="20"/>
                     <Label Text="Pasillo 1" Grid.Column="1" Grid.Row="1" FontSize="20"/>
                     <Button Text="Eliminar" BackgroundColor="#FF6F6F" Grid.Column="0" Grid.Row="2" /><!--Command=""-->
-                    <Button Text="Editar" BackgroundColor="#FAFF6F" Grid.Column="1" Grid.Row="2"/><!--Command=""-->
+                    <Button Text="Editar" BackgroundColor="#FAFF6F" Grid.Column="1" Grid.Row="2" Command="{Binding EditarCommand}"/><!--Command=""-->
                 </Grid>
             </Frame>
         </StackLayout>
-        <Button Text="+" FontSize="30" />
+        <Button Text="+" FontSize="30" Command="{Binding CrearCommand}"/>
     </StackLayout>
 </ContentPage>
