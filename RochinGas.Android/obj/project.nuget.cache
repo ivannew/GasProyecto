@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Qyv5h0e4W4t+c9/uJntTgHaytmetbOGK1nKDL1KJnoeoINtCmA9R9OoPOATrt8Upe9g0YK9KbpG9n+9Ykbu97g==",
+  "dgSpecHash": "js4PBXumsViNKYj/RoezDLxNt9jMdqkZuL6C68lvKK5S8L5kuZEedBG1RLwjLo7M6VRiOHNiD8eL1EFBYzb+Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.Android\\RochinGas.Android.csproj",
+  "projectFilePath": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas.Android\\RochinGas.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emiro\\.nuget\\packages\\sharpnado.shadows\\1.2.1\\sharpnado.shadows.1.2.1.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp.nativeassets.android\\2.88.7\\skiasharp.nativeassets.android.2.88.7.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp.views\\2.88.7\\skiasharp.views.2.88.7.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp.views.forms\\2.88.7\\skiasharp.views.forms.2.88.7.nupkg.sha512",
     "C:\\Users\\emiro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
     "C:\\Users\\emiro\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\emiro\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\emiro\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",

@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638434940781191372
+_nugetassetstimestamp=638440617718977125
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\emiro\source\repos\rochingas\rochingas.android\rochingas.android.csproj
+projectfullpath=c:\users\emiro\downloads\gasproyecto2\rochingas.android\rochingas.android.csproj

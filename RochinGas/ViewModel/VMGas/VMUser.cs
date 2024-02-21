@@ -19,7 +19,7 @@ namespace RochinGas.ViewModel.VMGas
         #region Proces
         public async Task Details()
         {
-            await Navigation.PushModalAsync(new MainPage());
+            await Navigation.PushModalAsync(new TiempoReal());
         }
         public async Task closesesion()
         {

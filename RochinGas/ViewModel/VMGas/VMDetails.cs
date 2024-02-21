@@ -19,7 +19,7 @@ namespace RochinGas.ViewModel.VMGas
         #region Process
         public async Task Volver()
         {
-            await Navigation.PushModalAsync(new User());
+            await Navigation.PushModalAsync(new TiempoReal());
         }
         #endregion
         #region Commands

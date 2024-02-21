@@ -7,7 +7,7 @@
           BackgroundColor="White">
         <StackLayout Orientation="Horizontal" Padding="15">
             <!-- ESTA ES LA PARTE DE PERFIL O SEA LA IMAGEN -->
-            <Image Source="https://i.ibb.co/Qj0RX9j/flecha-1.png" WidthRequest="50" Margin="-10,10,0,-20">
+            <Image Source="https://i.ibb.co/bRffpVM/flecha-izquierda.png" WidthRequest="50" Margin="-10,10,0,-20">
                 <Image.GestureRecognizers>
                     <TapGestureRecognizer Command="{Binding DetailsCommand}"/>
                 </Image.GestureRecognizers>

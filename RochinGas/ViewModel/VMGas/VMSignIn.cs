@@ -23,7 +23,7 @@ namespace RochinGas.ViewModel.VMGas
         }
         public async Task GoToMain()
         {
-            await Navigation.PushModalAsync(new MainPage());
+            await Navigation.PushModalAsync(new TiempoReal());
         }
         #endregion
         #region Commands

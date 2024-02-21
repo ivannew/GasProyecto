@@ -1,107 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RochinGas.MainPage" x:Name="MyPage"><!--BindingContext="{Binding Source={x:Reference MyPage}, Path=BindingContext}">-->
-    <StackLayout Margin="5,10,5,10">
-        <!--<Image Source="flechas_izquierda.png" HeightRequest="25">
-            <Image.GestureRecognizers>
-                <TapGestureRecognizer Command="{Binding VolverCommand}"/>
-            </Image.GestureRecognizers>
-         </Image>-->
-        <Label Text="Perfil" FontSize="20">
-            <Label.GestureRecognizers>
-                <TapGestureRecognizer Command="{Binding VolverCommand}"/>
-            </Label.GestureRecognizers>
-        </Label>
-        <Label Text="G-ASS" FontSize="40" TextColor="Black" Padding="140,0,0,0" />
-        <!--s-->
-        <Grid BackgroundColor="#D9D9D9" Padding="5,-20,5,10" Margin="0" HeightRequest="200">
-            <StackLayout Grid.Column="0" Grid.Row="1">
-                <Grid>
-                    <Image Source="calendario.png" HeightRequest="20" Grid.Column="0" Grid.Row="0"/>
-                    <Label Text="03/03/2024" Grid.Column="1" Grid.Row="0"/>
-                </Grid>
-            </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="2">
-                <ProgressBar BackgroundColor="#97FF83" ProgressColor="#97FF83" />
-            </StackLayout>
-            <StackLayout Grid.Column="1" Grid.Row="2" Margin="0,-20,0,0">
-                <Button Text="Estado" BackgroundColor="#97FF83" CornerRadius="10" />
-            </StackLayout>
-        </Grid>
-        <!--s-->
-        <Grid BackgroundColor="#D9D9D9" Padding="5,-20,5,10" Margin="0" HeightRequest="200">
-            <StackLayout Grid.Column="0" Grid.Row="1">
-                <Grid>
-                    <Image Source="calendario.png" HeightRequest="20" Grid.Column="0" Grid.Row="0"/>
-                    <Label Text="03/03/2024" Grid.Column="1" Grid.Row="0"/>
-                </Grid>
-            </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="2">
-                <ProgressBar BackgroundColor="#FF6F6F" ProgressColor="#FF6F6F" />
-            </StackLayout>
-            <StackLayout Grid.Column="1" Grid.Row="2" Margin="0,-20,0,0">
-                <Button Text="Estado" BackgroundColor="#FF6F6F" CornerRadius="10" />
-            </StackLayout>
-        </Grid>
-        <Grid BackgroundColor="#D9D9D9" Padding="5,-20,5,10" Margin="0" HeightRequest="200">
-            <StackLayout Grid.Column="0" Grid.Row="1" HeightRequest="50">
-                <Grid>
-                    <Image Source="calendario.png" HeightRequest="20" Grid.Column="0" Grid.Row="0"/>
-                    <Label Text="03/03/2024" Grid.Column="1" Grid.Row="0"/>
-                </Grid>
-            </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="2">
-                <ProgressBar BackgroundColor="#FAFF6F" ProgressColor="#FAFF6F" />
-            </StackLayout>
-            <StackLayout Grid.Column="1" Grid.Row="2" Margin="0,-20,0,0">
-                <Button Text="Estado" BackgroundColor="#FAFF6F" CornerRadius="10" />
-            </StackLayout>
-        </Grid>
-    </StackLayout>
+<ContentPage BackgroundColor="White" NavigationPage.HasNavigationBar="False" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RochinGas.MainPage" x:Name="MyPage">
+    <ScrollView>
+        <StackLayout Margin="5,10,5,10">
+            <Image Source="https://i.ibb.co/bRffpVM/flecha-izquierda.png" WidthRequest="50" Margin="-10,10,290,-20">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding VolverCommand}"/>
+                </Image.GestureRecognizers>
+            </Image>
+            <Label Text="HISTORIAL" FontSize="40" TextColor="Black" HorizontalOptions="Center" />
+
+            <!-- Primer Registro -->
+            <Frame Margin="10" CornerRadius="20" BackgroundColor="#F0E8E8">
+                <StackLayout Padding="10">
+                    <Label Text="Fecha: 03/03/2024" TextColor="Black"/>
+                    <Label Text="Nombre del Sensor:" TextColor="Black"/>
+                    <Label Text="Nombre del Motor:" TextColor="Black"/>
+                    <Label Text="Ubicación:" TextColor="Black"/>
+                    <BoxView Color="Gray" HeightRequest="1"/>
+                    <Button Text="Estado" BackgroundColor="#97FF83" CornerRadius="10" TextColor="Black" VerticalOptions="Center"/>
+                </StackLayout>
+            </Frame>
+
+            <!-- Segundo Registro -->
+            <Frame Margin="10" CornerRadius="20" BackgroundColor="#F0E8E8">
+                <StackLayout Padding="10">
+                    <Label Text="Fecha: 03/03/2024" TextColor="Black"/>
+                    <Label Text="Nombre del Sensor:" TextColor="Black"/>
+                    <Label Text="Nombre del Motor:" TextColor="Black"/>
+                    <Label Text="Ubicación:" TextColor="Black"/>
+                    <BoxView Color="Gray" HeightRequest="1"/>
+                    <Button Text="Estado" BackgroundColor="#FF6F6F" CornerRadius="10" TextColor="Black" VerticalOptions="Center"/>
+                </StackLayout>
+            </Frame>
+
+            <!-- Tercer Registro -->
+            <Frame Margin="10" CornerRadius="20" BackgroundColor="#F0E8E8">
+                <StackLayout Padding="10">
+                    <Label Text="Fecha: 03/03/2024" TextColor="Black"/>
+                    <Label Text="Nombre del Sensor:" TextColor="Black"/>
+                    <Label Text="Nombre del Motor:" TextColor="Black"/>
+                    <Label Text="Ubicación:" TextColor="Black"/>
+                    <Button Text="Estado" BackgroundColor="#FAFF6F" CornerRadius="10" TextColor="Black" VerticalOptions="Center"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
 </ContentPage>
-
-<!--<Label Text="{Binding herramientaEjercico}" TextColor="White"/>
-<Label Text="{Binding pesoKG}" TextColor="White"/>-->
-<!-- proximamente -->
-<!--<Button Text="Editar" BackgroundColor="Orange" CornerRadius="25" FontAttributes="Bold" Command="{Binding Path=BindingContext.EditarCommand,Source={x:Reference List}}" CommandParameter="{Binding .}" />-->
-<!--Command="{Binding EditarCommand}" CommandParameter="{Binding .}"-->
-<!--<Button Text="ELiminar" BackgroundColor="Red" CornerRadius="25" FontAttributes="Bold" Command="{Binding Path=BindingContext.EliminarCommand,Source={x:Reference List}}" CommandParameter="{Binding .}" />-->
-<!--Command="{Binding EliminarCommand}" CommandParameter="{Binding Txtnro}"/>-->
-<!--
-<Button Text="Completar" BackgroundColor="Green" CornerRadius="25" FontAttributes="Bold" Command="{Binding CompletarCommand}" CommandParameter="{Binding .}" />-->
-
-    <!-- este es la estructura que se va a utilizar al final xddd-->
-    <!--<Grid BackgroundColor="Black" RowDefinitions="100,*">
-        <Label Text="G-ASS" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" FontSize="30" FontAttributes="Bold" TextColor="White"/>
-        <CollectionView Background="#333" Grid.Row="1" x:Name="List" Margin="0,0,0,0"> --><!--ItemsSource="{Binding ListBoostE}">-->
-            <!--ItemSource="{Binding ListExercise"}--><!--
-            <CollectionView.ItemsLayout>
-                <GridItemsLayout Orientation="Vertical" Span="1" HorizontalItemSpacing="10" VerticalItemSpacing="10"/>
-            </CollectionView.ItemsLayout>
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
-                    
-                    <Grid RowDefinitions="20,*" Margin="10,10,0,0">
-                        <Frame Grid.Row="1" WidthRequest="250" HorizontalOptions="Center" CornerRadius="15" Margin="0,-10,0,0" HasShadow="False" BackgroundColor="Black">
-                                --><!--<Label Text="{Binding DateTime}" TextColor="White"/>
-                                <Label Text="{Binding TimePickerr}" TextColor="White"/>
-                                <Label Text="{Binding duracion}" TextColor="White"/>
-                                <Label Text="{Binding tipoEjercico}" TextColor="White"/>
-                                <Label Text="{Binding lugarEjercico}" TextColor="White"/>--><!--
-                            <StackLayout Margin="0,-20,0,0">
-                                <Label Text="03/03/2024"/>
-                                <ProgressBar BackgroundColor="Green" ProgressColor="Green"/>
-                                <Button Text="Estado" BackgroundColor="Green" CornerRadius="10"/>
-                            </StackLayout>
-                        </Frame>
-                        --><!--<Grid.GestureRecognizers>
-                            <TapGestureRecognizer Command="{Binding Path=BindingContext.EditarCommand,Source={x:Reference List}}" CommandParameter="{Binding .}"/>
-                        </Grid.GestureRecognizers>--><!--
-                    </Grid>
-                
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>
-        <Button Text="+" Grid.Row="1" HeightRequest="100" WidthRequest="100" VerticalOptions="End" HorizontalOptions="End" CornerRadius="50" Margin="15" FontSize="50" FontAttributes="Bold" BackgroundColor="Red" />
-        --><!--Command="{Binding RegistraECommand}"/>-->
-        <!--Command="{Binding Registrarcommand}"--><!--
-    </Grid-->

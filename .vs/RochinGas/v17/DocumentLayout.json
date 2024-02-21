@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\tiemporeal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\tiemporeal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\signin.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\signin.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\encendersensor.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\encendersensor.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\encendersensor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\encendersensor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\viewmodel\\vmtimporeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\viewmodel\\vmtimporeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\motores.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\motores.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\user.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\user.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\viewmodel\\vmgas\\vmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\viewmodel\\vmgas\\vmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\viewmodel\\gasdetectorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\viewmodel\\gasdetectorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\viewmodel\\vmgas\\vmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\viewmodel\\vmgas\\vmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\viewmodel\\vmgas\\vmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\viewmodel\\vmgas\\vmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\viewmodel\\vmgas\\vmsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\viewmodel\\vmgas\\vmsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\tiemporeal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\tiemporeal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\encendermotor.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\encendermotor.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\encendermotor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\encendermotor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\sensores.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\sensores.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\obj\\debug\\netstandard2.0\\view\\encendersensor.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\obj\\debug\\netstandard2.0\\view\\encendersensor.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\rochingas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\rochingas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|c:\\users\\ivan\\source\\repos\\gasproyecto2\\rochingas\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C947D9-386B-4451-9971-F98FB92A383F}|RochinGas\\RochinGas.csproj|solutionrelative:rochingas\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VMUser.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMUser.cs",
+              "RelativeDocumentMoniker": "RochinGas\\ViewModel\\VMGas\\VMUser.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMUser.cs",
+              "RelativeToolTip": "RochinGas\\ViewModel\\VMGas\\VMUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:06.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VMSignIn.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMSignIn.cs",
+              "RelativeDocumentMoniker": "RochinGas\\ViewModel\\VMGas\\VMSignIn.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMSignIn.cs",
+              "RelativeToolTip": "RochinGas\\ViewModel\\VMGas\\VMSignIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GasDetectorView.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\GasDetectorView.cs",
+              "RelativeDocumentMoniker": "RochinGas\\ViewModel\\GasDetectorView.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\GasDetectorView.cs",
+              "RelativeToolTip": "RochinGas\\ViewModel\\GasDetectorView.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:23:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TiempoReal.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\TiempoReal.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\TiempoReal.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\TiempoReal.xaml",
+              "RelativeToolTip": "RochinGas\\View\\TiempoReal.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T01:09:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncenderSensor.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderSensor.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\EncenderSensor.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderSensor.xaml",
+              "RelativeToolTip": "RochinGas\\View\\EncenderSensor.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T03:29:46.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VMtimporeal.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMtimporeal.cs",
+              "RelativeDocumentMoniker": "RochinGas\\ViewModel\\VMtimporeal.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMtimporeal.cs",
+              "RelativeToolTip": "RochinGas\\ViewModel\\VMtimporeal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T23:36:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\SignIn.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\SignIn.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\SignIn.xaml",
+              "RelativeToolTip": "RochinGas\\View\\SignIn.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T01:07:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncenderSensor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderSensor.xaml.cs",
+              "RelativeDocumentMoniker": "RochinGas\\View\\EncenderSensor.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderSensor.xaml.cs",
+              "RelativeToolTip": "RochinGas\\View\\EncenderSensor.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:29:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\User.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\User.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\User.xaml",
+              "RelativeToolTip": "RochinGas\\View\\User.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T01:07:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\Login.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\Login.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\Login.xaml",
+              "RelativeToolTip": "RochinGas\\View\\Login.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T01:07:06.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VMLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMLogin.cs",
+              "RelativeDocumentMoniker": "RochinGas\\ViewModel\\VMGas\\VMLogin.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMLogin.cs",
+              "RelativeToolTip": "RochinGas\\ViewModel\\VMGas\\VMLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:06.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motores.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\Motores.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\Motores.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\Motores.xaml",
+              "RelativeToolTip": "RochinGas\\View\\Motores.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T23:45:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\MainPage.xaml",
+              "RelativeToolTip": "RochinGas\\View\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T01:07:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TiempoReal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\TiempoReal.xaml.cs",
+              "RelativeDocumentMoniker": "RochinGas\\View\\TiempoReal.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\TiempoReal.xaml.cs",
+              "RelativeToolTip": "RochinGas\\View\\TiempoReal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:50:16.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VMDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMDetails.cs",
+              "RelativeDocumentMoniker": "RochinGas\\ViewModel\\VMGas\\VMDetails.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\VMGas\\VMDetails.cs",
+              "RelativeToolTip": "RochinGas\\ViewModel\\VMGas\\VMDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T23:36:45.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EncenderMotor.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderMotor.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\EncenderMotor.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderMotor.xaml",
+              "RelativeToolTip": "RochinGas\\View\\EncenderMotor.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T03:32:24.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EncenderMotor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderMotor.xaml.cs",
+              "RelativeDocumentMoniker": "RochinGas\\View\\EncenderMotor.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\EncenderMotor.xaml.cs",
+              "RelativeToolTip": "RochinGas\\View\\EncenderMotor.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:32:28.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sensores.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\sensores.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\View\\sensores.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\sensores.xaml",
+              "RelativeToolTip": "RochinGas\\View\\sensores.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T23:40:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "RochinGas\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "RochinGas\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T23:36:38.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EncenderSensor.xaml.g.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\obj\\Debug\\netstandard2.0\\View\\EncenderSensor.xaml.g.cs",
+              "RelativeDocumentMoniker": "RochinGas\\obj\\Debug\\netstandard2.0\\View\\EncenderSensor.xaml.g.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\obj\\Debug\\netstandard2.0\\View\\EncenderSensor.xaml.g.cs",
+              "RelativeToolTip": "RochinGas\\obj\\Debug\\netstandard2.0\\View\\EncenderSensor.xaml.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:25:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\App.xaml",
+              "RelativeDocumentMoniker": "RochinGas\\App.xaml",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\App.xaml",
+              "RelativeToolTip": "RochinGas\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-20T01:33:21.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RochinGas\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\App.xaml.cs",
+              "RelativeToolTip": "RochinGas\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:06.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RochinGas\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\AssemblyInfo.cs",
+              "RelativeToolTip": "RochinGas\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:50:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RochinGas.csproj",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\RochinGas.csproj",
+              "RelativeDocumentMoniker": "RochinGas\\RochinGas.csproj",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\RochinGas.csproj",
+              "RelativeToolTip": "RochinGas\\RochinGas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T01:08:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "RochinGas\\View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "RochinGas\\View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:06.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\SignIn.xaml.cs",
+              "RelativeDocumentMoniker": "RochinGas\\View\\SignIn.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\SignIn.xaml.cs",
+              "RelativeToolTip": "RochinGas\\View\\SignIn.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:06.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "RochinGas\\View\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\GasProyecto2\\RochinGas\\View\\Login.xaml.cs",
+              "RelativeToolTip": "RochinGas\\View\\Login.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:06.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

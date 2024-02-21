@@ -3,14 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="RochinGas.View.Login"
              NavigationPage.HasNavigationBar="False"
-             >
-             <!--xmlns:sombras="clr-namespace:Sharpnado.Shades;assembly=Sharpnado.Shadows"-->
+              xmlns:sombras="clr-namespace:Sharpnado.Shades;assembly=Sharpnado.Shadows"
+            BackgroundColor="White" >
+            
     <StackLayout>
         <Image Source="https://i.ibb.co/28d3LBM/gas.png" HeightRequest="80" WidthRequest="100" Margin="10,30,10,10"></Image>
         <Label TextColor="Gray" HorizontalOptions="Center"  FontSize="30">D-TECTOR</Label>
         <Frame Margin="10,10,10,10" CornerRadius="50">
             <StackLayout Margin="10,60,10,10">
-                <Label Text="Login" FontAttributes="Bold" FontSize="25" Margin="170,0,10,10" ></Label>
+                <Label Text="Login" FontAttributes="Bold" FontSize="25" TextColor="Black" Margin="170,0,10,10" ></Label>
                 <Label Text="Email" FontSize="15" Margin="60,10,10,10" TextColor="#269B0F"></Label>
                 <Entry Margin="55,-25,70,0"></Entry>
                 <Label Text="Contraseña" FontSize="15" Margin="60,10,10,10" TextColor="#269B0F"></Label>
@@ -18,12 +19,12 @@
                 <Image Source="https://i.ibb.co/rppqPdC/visible.png" Margin="300,-50,10,20" HeightRequest="30"></Image>
             </StackLayout>
         </Frame>
-        <!--<sombras:Shadows CornerRadius="100"
+       <sombras:Shadows CornerRadius="100"
                   Shades="{sombras:SingleShade Offset='1,0',Opacity=1.0, Color=#4CDD3E,BlurRadius=27}">
-        </sombras:Shadows>-->
+        </sombras:Shadows>
         <Button Text="ENTRAR" Margin="130,10,130,10" BackgroundColor="#97FF83" CornerRadius="30" Command="{Binding IniciarCommand}"/>
-        <Label Margin="130,0,0,0">No tines cuenta?</Label>
-        <Label Margin="253,-28,0,0" TextColor="#269B0F" Text="REGISTRARSE">
+        <Label Margin="130,0,0,0" TextColor="Black">No tines cuenta?</Label>
+        <Label Margin="253,-28,0,0" TextColor="#269B0F"  Text="REGISTRARSE">
             <Label.GestureRecognizers>
                 <TapGestureRecognizer Command="{Binding registrarCommand}"/>
             </Label.GestureRecognizers>

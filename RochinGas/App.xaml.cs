@@ -1,7 +1,5 @@
-﻿using RochinGas.View;
-using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
+using RochinGas.View;
 
 namespace RochinGas
 {
@@ -11,19 +9,7 @@ namespace RochinGas
         {
             InitializeComponent();
 
-            MainPage = new Login();
-        }
-
-        protected override void OnStart()
-        {
-        }
-
-        protected override void OnSleep()
-        {
-        }
-
-        protected override void OnResume()
-        {
+            MainPage = new NavigationPage(new Login());
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.iOS\\RochinGas.iOS.csproj": {}
+    "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas.iOS\\RochinGas.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.iOS\\RochinGas.iOS.csproj": {
+    "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas.iOS\\RochinGas.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.iOS\\RochinGas.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas.iOS\\RochinGas.iOS.csproj",
         "projectName": "RochinGas.iOS",
-        "projectPath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.iOS\\RochinGas.iOS.csproj",
+        "projectPath": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas.iOS\\RochinGas.iOS.csproj",
         "packagesPath": "C:\\Users\\emiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.iOS\\obj\\",
+        "outputPath": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas\\RochinGas.csproj": {
-                "projectPath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas\\RochinGas.csproj"
+              "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas\\RochinGas.csproj": {
+                "projectPath": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas\\RochinGas.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.7, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
@@ -68,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas\\RochinGas.csproj": {
+    "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas\\RochinGas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas\\RochinGas.csproj",
+        "projectUniqueName": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas\\RochinGas.csproj",
         "projectName": "RochinGas",
-        "projectPath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas\\RochinGas.csproj",
+        "projectPath": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas\\RochinGas.csproj",
         "packagesPath": "C:\\Users\\emiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas\\obj\\",
+        "outputPath": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,6 +118,22 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Sharpnado.Shadows": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.7, )"
+            },
+            "SkiaSharp.Views": {
+              "target": "Package",
+              "version": "[2.88.7, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.88.7, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

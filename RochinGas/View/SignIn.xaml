@@ -17,10 +17,11 @@
                 <Image Source="https://i.ibb.co/rppqPdC/visible.png" Margin="300,-50,10,20" HeightRequest="30"></Image>
             </StackLayout>
         </Frame>
-        <!--<sombras:Shadows CornerRadius="100"
+        <sombras:Shadows CornerRadius="100"
               Shades="{sombras:SingleShade Offset='1,0',Opacity=1.0, Color=#4CDD3E,BlurRadius=27}">
-        </sombras:Shadows>-->
-            <Button Text="ENTRAR" Margin="130,10,130,10" BackgroundColor="#97FF83" CornerRadius="30" Command="{Binding GoMainCommand}"/>
+        
+        <Button Text="ENTRAR" Margin="130,10,130,10" BackgroundColor="#97FF83" CornerRadius="30" Command="{Binding GoMainCommand}"/>
+        </sombras:Shadows>
         <Label Margin="130,0,0,0">Ya tines cuenta?</Label>
         <Label Margin="253,-28,0,0" TextColor="#269B0F" Text="Regresar">
             <Label.GestureRecognizers>

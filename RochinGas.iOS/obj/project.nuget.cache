@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "TqDNzW/YxCMf3jVmAUNHzdQdcNu9XMoX5CbRGUgcbLvxVW/lXKP5Ypiou6vx/Y2ZpZTkwv0Jt/E9Dix0M2FT5Q==",
+  "dgSpecHash": "v1Lg+wJ8XGxAvRxiw+nLW7YM64mh1uLFcG7+WCqFEw3rCRDLCramgsWMqUNOD5oNJpRNPU6QfqUfTrNk+XowZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emiro\\source\\repos\\RochinGas\\RochinGas.iOS\\RochinGas.iOS.csproj",
+  "projectFilePath": "C:\\Users\\emiro\\Downloads\\GasProyecto2\\RochinGas.iOS\\RochinGas.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emiro\\.nuget\\packages\\sharpnado.shadows\\1.2.1\\sharpnado.shadows.1.2.1.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp.nativeassets.ios\\2.88.7\\skiasharp.nativeassets.ios.2.88.7.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp.views\\2.88.7\\skiasharp.views.2.88.7.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\skiasharp.views.forms\\2.88.7\\skiasharp.views.forms.2.88.7.nupkg.sha512",
     "C:\\Users\\emiro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
     "C:\\Users\\emiro\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\emiro\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
