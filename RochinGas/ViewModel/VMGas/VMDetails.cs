@@ -21,9 +21,14 @@ namespace RochinGas.ViewModel.VMGas
         {
             await Navigation.PushModalAsync(new TiempoReal());
         }
+        public async Task Motores()
+        {
+            await Navigation.PushModalAsync(new ListMotors());
+        }
         #endregion
         #region Commands
         public ICommand VolverCommand => new Command(async () => await Volver());
+        public ICommand MotoresCommand => new Command(async () => await Motores());
         #endregion
     }
 }

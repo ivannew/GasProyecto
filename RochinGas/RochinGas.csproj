@@ -37,6 +37,7 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <EmbeddedResource Update="View\MotoresView\AgregarMotor.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -53,6 +54,15 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="View\SensoresView\EncenderSensor.xaml">
+=======
+    <EmbeddedResource Update="View\CrearMotor.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="View\EditarMotor.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="View\ListMotors.xaml">
+>>>>>>> 7248d0a0bfd166c7ef9787842fdb1e78c910c762
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="View\Login.xaml">

@@ -16,6 +16,7 @@ C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\RochinG
 C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
 C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\SignIn.xaml.g.cs
 C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\User.xaml.g.cs
+<<<<<<< HEAD
 C:\Users\ivan\Source\Repos\GasProyecto2\RochinGas\bin\Debug\netstandard2.0\RochinGas.deps.json
 C:\Users\ivan\Source\Repos\GasProyecto2\RochinGas\bin\Debug\netstandard2.0\RochinGas.dll
 C:\Users\ivan\Source\Repos\GasProyecto2\RochinGas\bin\Debug\netstandard2.0\ref\RochinGas.dll
@@ -67,3 +68,8 @@ C:\Users\emiro\Downloads\GasProyecto2\RochinGas\obj\Debug\netstandard2.0\View\Se
 C:\Users\emiro\Downloads\GasProyecto2\RochinGas\obj\Debug\netstandard2.0\View\SensoresView\sensores.xaml.g.cs
 C:\Users\emiro\Downloads\GasProyecto2\RochinGas\obj\Debug\netstandard2.0\View\SensoresView\EditarSensor.xaml.g.cs
 C:\Users\emiro\Downloads\GasProyecto2\RochinGas\obj\Debug\netstandard2.0\View\SensoresView\AgregarSensor.xaml.g.cs
+=======
+C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\ListMotors.xaml.g.cs
+C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\CrearMotor.xaml.g.cs
+C:\Users\emiro\source\repos\RochinGas\RochinGas\obj\Debug\netstandard2.0\View\EditarMotor.xaml.g.cs
+>>>>>>> 7248d0a0bfd166c7ef9787842fdb1e78c910c762

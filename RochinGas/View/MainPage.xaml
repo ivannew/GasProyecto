@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+<<<<<<< HEAD
 <ContentPage BackgroundColor="White" NavigationPage.HasNavigationBar="False" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RochinGas.MainPage" x:Name="MyPage">
     <ScrollView>
         <StackLayout Margin="5,10,5,10">
@@ -45,4 +46,71 @@
             </Frame>
         </StackLayout>
     </ScrollView>
+=======
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RochinGas.MainPage" x:Name="MyPage"><!--BindingContext="{Binding Source={x:Reference MyPage}, Path=BindingContext}">-->
+    <StackLayout Margin="5,10,5,10">
+        <!--<Image Source="flechas_izquierda.png" HeightRequest="25">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding VolverCommand}"/>
+            </Image.GestureRecognizers>
+         </Image>-->
+        <Grid>
+            <Label Text="Perfil" FontSize="20" Grid.Column="0" Grid.Row="0">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding VolverCommand}"/>
+                </Label.GestureRecognizers>
+            </Label>
+            <Label Text="Motores" FontSize="20" Grid.Column="1" Grid.Row="0">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding MotoresCommand}"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </Grid>
+        <Label Text="D-Tector" FontSize="40" TextColor="Black" Padding="140,0,0,0" />
+        <!--s-->
+        <Grid BackgroundColor="#D9D9D9" Padding="5,-20,5,10" Margin="0" HeightRequest="200">
+            <StackLayout Grid.Column="0" Grid.Row="1">
+                <Grid>
+                    <Image Source="calendario.png" HeightRequest="20" Grid.Column="0" Grid.Row="0"/>
+                    <Label Text="03/03/2024" Grid.Column="1" Grid.Row="0"/>
+                </Grid>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="2">
+                <ProgressBar BackgroundColor="#97FF83" ProgressColor="#97FF83" />
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="2" Margin="0,-20,0,0">
+                <Button Text="Estado" BackgroundColor="#97FF83" CornerRadius="10" />
+            </StackLayout>
+        </Grid>
+        <!--s-->
+        <Grid BackgroundColor="#D9D9D9" Padding="5,-20,5,10" Margin="0" HeightRequest="200">
+            <StackLayout Grid.Column="0" Grid.Row="1">
+                <Grid>
+                    <Image Source="calendario.png" HeightRequest="20" Grid.Column="0" Grid.Row="0"/>
+                    <Label Text="03/03/2024" Grid.Column="1" Grid.Row="0"/>
+                </Grid>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="2">
+                <ProgressBar BackgroundColor="#FF6F6F" ProgressColor="#FF6F6F" />
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="2" Margin="0,-20,0,0">
+                <Button Text="Estado" BackgroundColor="#FF6F6F" CornerRadius="10" />
+            </StackLayout>
+        </Grid>
+        <Grid BackgroundColor="#D9D9D9" Padding="5,-20,5,10" Margin="0" HeightRequest="200">
+            <StackLayout Grid.Column="0" Grid.Row="1" HeightRequest="50">
+                <Grid>
+                    <Image Source="calendario.png" HeightRequest="20" Grid.Column="0" Grid.Row="0"/>
+                    <Label Text="03/03/2024" Grid.Column="1" Grid.Row="0"/>
+                </Grid>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="2">
+                <ProgressBar BackgroundColor="#FAFF6F" ProgressColor="#FAFF6F" />
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="2" Margin="0,-20,0,0">
+                <Button Text="Estado" BackgroundColor="#FAFF6F" CornerRadius="10" />
+            </StackLayout>
+        </Grid>
+    </StackLayout>
+>>>>>>> 7248d0a0bfd166c7ef9787842fdb1e78c910c762
 </ContentPage>
